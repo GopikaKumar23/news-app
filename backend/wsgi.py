@@ -5,3 +5,4 @@ if __name__ == "__main__":
 
 # run the server
 # gunicorn --bind 0.0.0.0:5000 wsgi:app
+# npm run dev 
